@@ -33,13 +33,27 @@ jobs:
                   raise SystemExit("Checksum mismatch: " + item["path"])
           print(f"Verified {len(manifest)} imported project files")
           PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Prepare generated mobile assets for tests
+        run: |
+          node build-mobile.mjs
+          node build-native.mjs
+          mkdir -p native-app/android/app/src/main/assets/public native-app/ios/App/App/public
+          cp -a native-app/www/. native-app/android/app/src/main/assets/public/
+          cp -a native-app/www/. native-app/ios/App/App/public/
       - name: Verify game
         run: npm test
       - name: Commit game source and audio
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 - <<'PY'
+          import json, subprocess
+          files = [item["path"] for item in json.load(open("yebo-import-manifest.json"))]
+          subprocess.run(["git", "add", "--", *files], check=True)
+          PY
           git rm -- 'yebo-import-*.zip' yebo-import-manifest.json IMPORT.md
-          git add --all
           git commit -m "Add complete Yebo game with offline voices and real handclap sing-alongs"
           git push

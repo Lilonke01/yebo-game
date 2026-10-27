@@ -2,7 +2,6 @@ name: Import local Yebo game
 on:
   push:
     paths:
-      - 'yebo-import-*.zip'
       - 'yebo-import-manifest.json'
 permissions:
   contents: write

@@ -1,0 +1,45 @@
+name: Import local Yebo game
+on:
+  push:
+    paths:
+      - 'yebo-import-*.zip'
+      - 'yebo-import-manifest.json'
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore and verify project files
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import zipfile, json, hashlib
+          root = Path.cwd().resolve()
+          archives = sorted(root.glob("yebo-import-*.zip"))
+          if not archives:
+              raise SystemExit("No import archives found")
+          for archive in archives:
+              with zipfile.ZipFile(archive) as bundle:
+                  for member in bundle.infolist():
+                      target = (root / member.filename).resolve()
+                      if not target.is_relative_to(root) or ".git" in Path(member.filename).parts:
+                          raise SystemExit("Unsafe archive path")
+                  bundle.extractall(root)
+          manifest = json.loads(Path("yebo-import-manifest.json").read_text())
+          for item in manifest:
+              if hashlib.sha256(Path(item["path"]).read_bytes()).hexdigest() != item["sha256"]:
+                  raise SystemExit("Checksum mismatch: " + item["path"])
+          print(f"Verified {len(manifest)} imported project files")
+          PY
+      - name: Verify game
+        run: npm test
+      - name: Commit game source and audio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -- 'yebo-import-*.zip' yebo-import-manifest.json IMPORT.md
+          git add --all
+          git commit -m "Add complete Yebo game with offline voices and real handclap sing-alongs"
+          git push

@@ -1,0 +1,14 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {rewardProgress,cheerTexts} from './joy.mjs';
+import {cheerfulVoiceFiles} from './voice-cheerful.mjs';
+import fs from 'node:fs';
+import {showcaseVoiceTexts} from './showcase.mjs';
+import {learningPicture} from './learning-pictures.mjs';
+import {speechText} from './speech-text.mjs';
+test('narration strips emojis while preserving words and sums',()=>{assert.equal(speechText('⚽ Sam has a ball.'),'Sam has a ball.');assert.equal(speechText('🌧️ ☂️ It is raining.'),'It is raining.');assert.equal(speechText('👏🏽 Great! 👨‍👩‍👧'),'Great!');assert.equal(speechText('R2 + R1 = R3. 1️⃣'),'R2 + R1 = R3. 1');});
+test('discovery trail rewards completed activities and clamps its bounds',()=>{assert.deepEqual(rewardProgress(5,10),{completed:5,total:10,percent:50,stamps:2});assert.equal(rewardProgress(-2,10).stamps,0);assert.equal(rewardProgress(20,10).stamps,4);assert.equal(rewardProgress(12,12).percent,100);});
+test('encouraging voice lines are available in all three languages',()=>{for(const lang of ['en','af','zu'])for(const text of cheerTexts[lang])assert.match(cheerfulVoiceFiles[lang][text],/^[a-f0-9]{20}\.mp3$/);});
+test('every demonstration uses the consistent neural voice pack',()=>{for(const [lang,texts] of Object.entries(showcaseVoiceTexts()))for(const text of texts)if(speechText(text))assert.ok(cheerfulVoiceFiles[lang][text],text);});
+test('reading examples and word activities have accessible illustrations',()=>{for(const key of ['q0','q1','q2','q3','word','buildword','sequence','sentence','bag','shop','help']){assert.match(learningPicture(key),/role="img" aria-label="[^"]+"/);}});
+test('every cheerful narration has a complete local MP3 recording',()=>{for(const pack of Object.values(cheerfulVoiceFiles))for(const file of Object.values(pack)){const data=fs.readFileSync(new URL('./audio/'+file,import.meta.url));assert.ok(data.length>1000,file);assert.ok(data.subarray(0,3).toString()==='ID3'||data[0]===255,file);}});

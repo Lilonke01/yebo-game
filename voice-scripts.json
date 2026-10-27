@@ -1,0 +1,1442 @@
+[
+  {
+    "text": "Hello, my friend! Welcome to Yebo’s shopping adventure! Let’s count, learn and smile together. Take your time. You can do it!",
+    "file": "7cb4fc6b5d10e606657a.wav"
+  },
+  {
+    "text": "Hooray! You helped Yebo bring the groceries home! Thank you for keeping on trying. We are proud of you!",
+    "file": "93a58e3fe5ba44b793ec.wav"
+  },
+  {
+    "text": "Hello, reading explorer! Welcome to Yebo’s English reading adventure. We will read words, enjoy a story, and think about what it means. Take your time. Listening is part of learning!",
+    "file": "04daa9a5c80d6e8252d5.wav"
+  },
+  {
+    "text": "Wonderful reading! You practised words, read a story, and thought about its meaning. Every little step helps you grow. Keep reading, my friend!",
+    "file": "afade6c73a0194e23efe.wav"
+  },
+  {
+    "text": "Look at the picture of a bag. Choose the word bag.",
+    "file": "c1ccd1867ae9430f15b1.wav"
+  },
+  {
+    "text": "Look at the picture of a shop. Choose the word shop.",
+    "file": "0a6f484c8482beb42d37.wav"
+  },
+  {
+    "text": "Helping is kind. Choose the word help.",
+    "file": "c82da9d837d1517a2570.wav"
+  },
+  {
+    "text": "The word is bag. Which letter is missing from b, space, g?",
+    "file": "76fa80d80d06362ce025.wav"
+  },
+  {
+    "text": "Read the story. You may listen to each sentence or hear the whole story.",
+    "file": "d54aabc428cb7c4fa356.wav"
+  },
+  {
+    "text": "Put the events in story order. Choose what happened first, then next, then last.",
+    "file": "7272b012df0f539cc4a7.wav"
+  },
+  {
+    "text": "Make a sentence. Tap the words in the order: Yebo helps Mama.",
+    "file": "28d4f9d57a292f075c94.wav"
+  },
+  {
+    "text": "Great thinking! You found it.",
+    "file": "a6cb55e80b5dba0141e7.wav"
+  },
+  {
+    "text": "Let’s try together. Read the story again or ask for a hint.",
+    "file": "489c8b7cd13709c95159.wav"
+  },
+  {
+    "text": "bag",
+    "file": "521932e22b98a1ec9ae3.wav"
+  },
+  {
+    "text": "bag. A bag is something you use to carry things.",
+    "file": "5d65f56e84376bcca925.wav"
+  },
+  {
+    "text": "shop",
+    "file": "80847e0cff67e1a9a372.wav"
+  },
+  {
+    "text": "shop. A shop is a place where people buy things.",
+    "file": "034bc7483ed7e83db75e.wav"
+  },
+  {
+    "text": "help",
+    "file": "17c361ef67ef9114c4dd.wav"
+  },
+  {
+    "text": "help. To help means to do something useful or kind for someone.",
+    "file": "7e4144cbf6be4f0047e3.wav"
+  },
+  {
+    "text": "Yebo and the lost bag. Yebo walks to the shop with Mama. He sees a small blue bag under a tree. A girl is looking for her bag. Yebo gives the bag to the girl. The girl smiles and says, “Thank you!” Yebo feels happy because he helped someone.",
+    "file": "680db695ae2935b8f280.wav"
+  },
+  {
+    "text": "Yebo walks to the shop with Mama.",
+    "file": "dd52fc6718663c977a33.wav"
+  },
+  {
+    "text": "He sees a small blue bag under a tree.",
+    "file": "746a0646bfb2f6dc7ba4.wav"
+  },
+  {
+    "text": "A girl is looking for her bag.",
+    "file": "04883de03537f58c573a.wav"
+  },
+  {
+    "text": "Yebo gives the bag to the girl.",
+    "file": "e6b285c2cfac155ee5d9.wav"
+  },
+  {
+    "text": "The girl smiles and says, “Thank you!”",
+    "file": "bd2d6415db1c4b547cc8.wav"
+  },
+  {
+    "text": "Yebo feels happy because he helped someone.",
+    "file": "5d781d594cbf0f431329.wav"
+  },
+  {
+    "text": "Yebo finds a bag.",
+    "file": "7e4765e54c84ffb7828c.wav"
+  },
+  {
+    "text": "The girl thanks Yebo.",
+    "file": "a214e24accf0f5ba7d92.wav"
+  },
+  {
+    "text": "Yebo finds a bag. Yebo gives the bag to the girl. The girl thanks Yebo.",
+    "file": "9db0bc6b8022a7266951.wav"
+  },
+  {
+    "text": "Who walks to the shop with Yebo?",
+    "file": "2a99ee31d833476a8a33.wav"
+  },
+  {
+    "text": "Read the first sentence. It tells us who walks with Yebo.",
+    "file": "3d201e7692cf0acc81c4.wav"
+  },
+  {
+    "text": "Mama",
+    "file": "1c40dfea6279a84c2d38.wav"
+  },
+  {
+    "text": "Sipho",
+    "file": "7dacf6f6a883a190c973.wav"
+  },
+  {
+    "text": "Mr Patel",
+    "file": "1ce7cb10a0d6620d0f2e.wav"
+  },
+  {
+    "text": "Where does Yebo find the bag?",
+    "file": "858ad3721d93fe679cfb.wav"
+  },
+  {
+    "text": "Read the second sentence. Look for the place where the bag is.",
+    "file": "d309db2c395ab6d91be2.wav"
+  },
+  {
+    "text": "Under a tree",
+    "file": "5e394de8dbe959eb6370.wav"
+  },
+  {
+    "text": "On a bus",
+    "file": "9fca456e17839f925ba8.wav"
+  },
+  {
+    "text": "In the kitchen",
+    "file": "fd8a0c4baff5e7ae6b81.wav"
+  },
+  {
+    "text": "Why does the girl say “Thank you”?",
+    "file": "435db4212d2474a60539.wav"
+  },
+  {
+    "text": "Read what Yebo does just before the girl thanks him.",
+    "file": "322a8e10cd34b805fac0.wav"
+  },
+  {
+    "text": "Yebo returns her bag",
+    "file": "d1d16374d439b606b480.wav"
+  },
+  {
+    "text": "Yebo buys milk",
+    "file": "3b2adf5972649cf1607b.wav"
+  },
+  {
+    "text": "Yebo sings a song",
+    "file": "eac185744738920913c1.wav"
+  },
+  {
+    "text": "How do we know Yebo is kind?",
+    "file": "91c2b75743a869528192.wav"
+  },
+  {
+    "text": "Think about Yebo’s actions. Which action helps another person?",
+    "file": "a527e5dc835d97b582f0.wav"
+  },
+  {
+    "text": "He helps the girl",
+    "file": "3f927a207d209eaf0bc9.wav"
+  },
+  {
+    "text": "He hides the bag",
+    "file": "8c3f30d771c5cc6be491.wav"
+  },
+  {
+    "text": "He walks away",
+    "file": "d124f02a2c70c8ce42f6.wav"
+  },
+  {
+    "text": "A seed for the garden. Lindi gives Yebo a small seed. Yebo puts the seed in a pot of soil. He gives it water and puts the pot in the sunlight. Every day, Yebo looks after the seed. One morning, he sees a little green leaf. Yebo smiles because his plant is growing.",
+    "file": "ed3f5b931a70ed507af2.wav"
+  },
+  {
+    "text": "Lindi gives Yebo a small seed.",
+    "file": "f1759d5e557ddaa85bb8.wav"
+  },
+  {
+    "text": "Yebo puts the seed in a pot of soil.",
+    "file": "0eba345e540c2ecd19d3.wav"
+  },
+  {
+    "text": "He gives it water and puts the pot in the sunlight.",
+    "file": "1b4fdef4f6dacb282e74.wav"
+  },
+  {
+    "text": "Every day, Yebo looks after the seed.",
+    "file": "a7a551053dc45d47996e.wav"
+  },
+  {
+    "text": "One morning, he sees a little green leaf.",
+    "file": "b3556a92724a95507924.wav"
+  },
+  {
+    "text": "Yebo smiles because his plant is growing.",
+    "file": "852ab4f3c3a39a453fe8.wav"
+  },
+  {
+    "text": "Lindi gives Yebo a seed.",
+    "file": "846e8b5fcb1859fc13eb.wav"
+  },
+  {
+    "text": "Yebo plants and waters the seed.",
+    "file": "fd6e3783df95e128dde1.wav"
+  },
+  {
+    "text": "A green leaf grows.",
+    "file": "573b7def6936163f4f98.wav"
+  },
+  {
+    "text": "Lindi gives Yebo a seed. Yebo plants and waters the seed. A green leaf grows.",
+    "file": "6b236c076dfdfe13e277.wav"
+  },
+  {
+    "text": "Who gives Yebo the seed?",
+    "file": "df1fcc31a60b8551e910.wav"
+  },
+  {
+    "text": "Read the first sentence to find who gives Yebo a seed.",
+    "file": "cfb7f69ff7465c8204b0.wav"
+  },
+  {
+    "text": "Lindi",
+    "file": "051706c28422c7d29d1c.wav"
+  },
+  {
+    "text": "Mr Dlamini",
+    "file": "7086e09bb6b6fc741384.wav"
+  },
+  {
+    "text": "Where does Yebo put the seed?",
+    "file": "3cdd953337c888435df8.wav"
+  },
+  {
+    "text": "Look at the second sentence. Where does the seed go?",
+    "file": "4e3f5c68fa976eeca933.wav"
+  },
+  {
+    "text": "In a pot of soil",
+    "file": "8d75171eea490ff8ca6c.wav"
+  },
+  {
+    "text": "In his pocket",
+    "file": "b40c1215df3b9a02d0d4.wav"
+  },
+  {
+    "text": "Under a chair",
+    "file": "4e05639241f7586fab7e.wav"
+  },
+  {
+    "text": "Why does Yebo smile at the end?",
+    "file": "eb0f3515a4a024263c60.wav"
+  },
+  {
+    "text": "The last two sentences tell us what Yebo sees and how he feels.",
+    "file": "423e9b1e9d362cf0c64c.wav"
+  },
+  {
+    "text": "His plant is growing",
+    "file": "1fd45730e10735c350ee.wav"
+  },
+  {
+    "text": "He lost the pot",
+    "file": "5c9bff1a41272f01a97d.wav"
+  },
+  {
+    "text": "It is raining inside",
+    "file": "d02d1ba55d6dce794b3d.wav"
+  },
+  {
+    "text": "What shows that Yebo cares for the plant?",
+    "file": "43e66429e364fa311a67.wav"
+  },
+  {
+    "text": "Think about what Yebo does again and again to help his plant.",
+    "file": "0fc2af90a7d21d19b2b1.wav"
+  },
+  {
+    "text": "He looks after it every day",
+    "file": "5ea1444fb29588bf7f3c.wav"
+  },
+  {
+    "text": "He forgets about it",
+    "file": "1b6d5631cca402bcfb1d.wav"
+  },
+  {
+    "text": "He throws it away",
+    "file": "753f0e61d9f110197a46.wav"
+  },
+  {
+    "text": "Look at the middle of the word bag. The missing letter is a. Say the word slowly, then try again.",
+    "file": "4925f3276c1e1e437272.wav"
+  },
+  {
+    "text": "The picture gives you a clue. Listen to the word, then look carefully at all the letters.",
+    "file": "5c43a147e7040ad96c58.wav"
+  },
+  {
+    "text": "First, Yebo finds something. Next, he helps. Last, someone says thank you.",
+    "file": "ce216316b335db99a67e.wav"
+  },
+  {
+    "text": "A sentence begins with a capital letter and finishes with a full stop. Start with Yebo.",
+    "file": "ceda1918435437400ed1.wav"
+  },
+  {
+    "text": "Mama needs a helping hand. Join Yebo on a shopping adventure. Take your time.",
+    "file": "ec60df06b25b037b994f.wav"
+  },
+  {
+    "text": "You helped Yebo bring the groceries home. Thank you for keeping going.",
+    "file": "94628c02cf0eceb0ff85.wav"
+  },
+  {
+    "text": "Mama has given Yebo money for the shopping. First, let’s recognise a two rand coin.",
+    "file": "fd1f56b091db23205c1f.wav"
+  },
+  {
+    "text": "Look at the value. Coins have different values. Read the number on each coin, rather than counting every coin as one rand.",
+    "file": "457f4cc8d27727a279b6.wav"
+  },
+  {
+    "text": "Find two rand. The coin marked R2 is worth two rand. It has the same value as two one rand coins.",
+    "file": "0c74635443a4e0d794ce.wav"
+  },
+  {
+    "text": "Mama gives Yebo 20 rand, 20 rand, 5 rand, 2 rand, 2 rand, 1 rand. Let’s count the money in small steps so he knows his shopping budget.",
+    "file": "6dfa64da3f0f1cac6aca.wav"
+  },
+  {
+    "text": "Count piece 1. Start with the first note. It is worth 20 rand.",
+    "file": "323d525fce50b769e79b.wav"
+  },
+  {
+    "text": "Count piece 2. We have 20 rand. Add the next 20 rand. Now we have 40 rand.",
+    "file": "8d949052221850717db4.wav"
+  },
+  {
+    "text": "Count piece 3. We have 40 rand. Add the next 5 rand. Now we have 45 rand.",
+    "file": "27ff2354737ba0a08c33.wav"
+  },
+  {
+    "text": "Count piece 4. We have 45 rand. Add the next 2 rand. Now we have 47 rand.",
+    "file": "2b6d0b8740ec65f28734.wav"
+  },
+  {
+    "text": "Count piece 5. We have 47 rand. Add the next 2 rand. Now we have 49 rand.",
+    "file": "34a62ed083850d244575.wav"
+  },
+  {
+    "text": "Count piece 6. We have 49 rand. Add the next 1 rand. Now we have 50 rand.",
+    "file": "8abefe954d631a5096db.wav"
+  },
+  {
+    "text": "Check the whole wallet. We counted every piece once. Mama gave Yebo 50 rand altogether.",
+    "file": "e157be4b944b75ace6bd.wav"
+  },
+  {
+    "text": "Aunty Zanele bought seeds for 8 rand and a pot for 7 rand. She wants to know how much she spent altogether. Altogether tells us to add the two prices.",
+    "file": "93458b920b613fdfd9f0.wav"
+  },
+  {
+    "text": "Start with the seeds. The seeds cost 8 rand. Start counting at 8.",
+    "file": "bd9e4ce6a97e279f83d3.wav"
+  },
+  {
+    "text": "Break the next price into parts. Split 7 into 2 and 5. Adding 2 first will help us reach ten.",
+    "file": "54a5441762db307140c7.wav"
+  },
+  {
+    "text": "Make ten. 8 plus 2 equals ten.",
+    "file": "c332e63a768c1c70036b.wav"
+  },
+  {
+    "text": "Add what is left. We still need to add 5. Ten plus 5 equals 15. Zanele spent 15 rand.",
+    "file": "cb04bb1d4a4880bcd956.wav"
+  },
+  {
+    "text": "Aunty Zanele bought seeds for 6 rand and a pot for 5 rand. She wants to know how much she spent altogether. Altogether tells us to add the two prices.",
+    "file": "c8a003e0c40984e0fd07.wav"
+  },
+  {
+    "text": "Start with the seeds. The seeds cost 6 rand. Start counting at 6.",
+    "file": "2515100fe0fd2070ac78.wav"
+  },
+  {
+    "text": "Break the next price into parts. Split 5 into 4 and 1. Adding 4 first will help us reach ten.",
+    "file": "7819ea7312df432d0237.wav"
+  },
+  {
+    "text": "Make ten. 6 plus 4 equals ten.",
+    "file": "865aa30f66499afdc31c.wav"
+  },
+  {
+    "text": "Add what is left. We still need to add 1. Ten plus 1 equals 11. Zanele spent 11 rand.",
+    "file": "40cacd9d6aaa70f590ef.wav"
+  },
+  {
+    "text": "Sipho had 20 rand and spent 6 rand on paper for the reading club. He wants to know how much is left. Spent means we take money away.",
+    "file": "e205b853e21e114018fc.wav"
+  },
+  {
+    "text": "Start with Sipho’s money. Sipho starts with 20 rand.",
+    "file": "5661444ece2e8250380d.wav"
+  },
+  {
+    "text": "Take away the first part. Break 6 into 5 and one. Take away 5 first. 20 minus 5 equals 15.",
+    "file": "32b972035e17f9101edb.wav"
+  },
+  {
+    "text": "Take away one more. Take away the last one rand. 15 minus one equals 14.",
+    "file": "ae1f8634712348856a71.wav"
+  },
+  {
+    "text": "Check by adding back. The money left, 14 rand, plus the 6 rand spent, makes the starting 20 rand. Our answer checks out.",
+    "file": "416156c1afa6db61f1bc.wav"
+  },
+  {
+    "text": "Sipho had 10 rand and spent 3 rand on paper for the reading club. He wants to know how much is left. Spent means we take money away.",
+    "file": "a13d93e470b44953b07f.wav"
+  },
+  {
+    "text": "Start with Sipho’s money. Sipho starts with 10 rand.",
+    "file": "c09eea57b9c83424d998.wav"
+  },
+  {
+    "text": "Take away the first part. Break 3 into 2 and one. Take away 2 first. 10 minus 2 equals 8.",
+    "file": "ed47ac38353ff497ba58.wav"
+  },
+  {
+    "text": "Take away one more. Take away the last one rand. 8 minus one equals 7.",
+    "file": "ac5a8001beb4ce74ebcd.wav"
+  },
+  {
+    "text": "Check by adding back. The money left, 7 rand, plus the 3 rand spent, makes the starting 10 rand. Our answer checks out.",
+    "file": "a24f2565e6213d16be9e.wav"
+  },
+  {
+    "text": "Mr Patel has 3 bags of oranges. Each bag costs 4 rand. Each means the price is the same for every bag. We add 4 once for each bag.",
+    "file": "3d66d65e91066fb53179.wav"
+  },
+  {
+    "text": "Count bag 1. The first bag costs 4 rand.",
+    "file": "fe9a97e81e5736da0b6f.wav"
+  },
+  {
+    "text": "Count bag 2. Add another 4 rand for bag 2. Now the total is 8 rand.",
+    "file": "1aa079368e718c9747af.wav"
+  },
+  {
+    "text": "Count bag 3. Add another 4 rand for bag 3. Now the total is 12 rand.",
+    "file": "1879bc6e4fd624d9b65b.wav"
+  },
+  {
+    "text": "Connect the equal groups. 3 equal groups of 4 make 12. This is multiplication. All the bags cost 12 rand.",
+    "file": "2c432379ca958e6c263c.wav"
+  },
+  {
+    "text": "Mr Patel has 2 bags of oranges. Each bag costs 3 rand. Each means the price is the same for every bag. We add 3 once for each bag.",
+    "file": "975f567a1cb882942916.wav"
+  },
+  {
+    "text": "Count bag 1. The first bag costs 3 rand.",
+    "file": "3e1dbaec4f95ba8802c2.wav"
+  },
+  {
+    "text": "Count bag 2. Add another 3 rand for bag 2. Now the total is 6 rand.",
+    "file": "8366088c5d49ef5bf444.wav"
+  },
+  {
+    "text": "Connect the equal groups. 2 equal groups of 3 make 6. This is multiplication. All the bags cost 6 rand.",
+    "file": "2a28ecdde6f445bbfbfa.wav"
+  },
+  {
+    "text": "Yebo is at Mr Dlamini’s spaza shop. Mama needs Bread, Milk, Apples. Let’s match the shopping list to the shelf.",
+    "file": "c2095e185b49f3fe78d0.wav"
+  },
+  {
+    "text": "Find Bread. Find Bread on the shelf. The price is 14 rand. Choose one, because Mama’s list asks for one.",
+    "file": "20c28fd8bea3a6527b8c.wav"
+  },
+  {
+    "text": "Find Milk. Find Milk on the shelf. The price is 12 rand. Choose one, because Mama’s list asks for one.",
+    "file": "a9a9066c116bea1a2bfb.wav"
+  },
+  {
+    "text": "Find Apples. Find Apples on the shelf. The price is 9 rand. Choose one, because Mama’s list asks for one.",
+    "file": "c9faf624d5c693f907a0.wav"
+  },
+  {
+    "text": "Check the basket. Check every item against the list. Put any extra item back before adding the prices.",
+    "file": "55bac53b5973f62a26bb.wav"
+  },
+  {
+    "text": "Yebo has chosen Bread for 14 rand, Milk for 12 rand, Apples for 9 rand. We need the total cost, so we add all the prices.",
+    "file": "8929a0d8a5a2e1a7bdde.wav"
+  },
+  {
+    "text": "Start with Bread. Start with Bread. It costs 14 rand.",
+    "file": "d8cd7f6ff7d5c79eb729.wav"
+  },
+  {
+    "text": "Add Milk. Our total so far is 14 rand. Add 12 rand for Milk. Now the total is 26 rand.",
+    "file": "79939d96b6de4744d197.wav"
+  },
+  {
+    "text": "Add Apples. Our total so far is 26 rand. Add 9 rand for Apples. Now the total is 35 rand.",
+    "file": "66601a406227993331a5.wav"
+  },
+  {
+    "text": "The basket total. We included every listed item once. The shopping costs 35 rand altogether.",
+    "file": "9143762ec6eb25fbe4f1.wav"
+  },
+  {
+    "text": "The groceries cost 35 rand. Mama’s wallet holds 50 rand. Can this amount pay for the groceries?",
+    "file": "fb7d89822740b424f778.wav"
+  },
+  {
+    "text": "Find the amount needed. We need 35 rand to buy everything.",
+    "file": "5a6ecf2b253ca4f38acf.wav"
+  },
+  {
+    "text": "Compare the two amounts. 50 rand is at least 35 rand. There is enough money.",
+    "file": "1a3d69627e4596e42d98.wav"
+  },
+  {
+    "text": "Find what will remain. After spending 35 rand, 15 rand will remain in total.",
+    "file": "069dda6e00da0f0ba63d.wav"
+  },
+  {
+    "text": "The groceries cost 35 rand. Imagine a pretend wallet with only 30 rand. Can this amount pay for the groceries?",
+    "file": "59c1453cb4a5b7cac13b.wav"
+  },
+  {
+    "text": "Compare the two amounts. 30 rand is less than 35 rand. There is not enough money yet.",
+    "file": "67be72e3498c3912bb10.wav"
+  },
+  {
+    "text": "Find how much more is needed. This pretend wallet needs 5 rand more. Mama’s real wallet does not change.",
+    "file": "daf94c00eac9344d72f0.wav"
+  },
+  {
+    "text": "Yebo needs to pay 35 rand at the till. He can choose notes and coins from Mama’s wallet. Any payment that covers the cost is fine.",
+    "file": "f9b57b4ee2c8f151fe3f.wav"
+  },
+  {
+    "text": "Keep the cost in view. The shopkeeper needs 35 rand for the groceries.",
+    "file": "966b446c5f10550a762d.wav"
+  },
+  {
+    "text": "Build a payment. Tap one piece of money at a time. Add its value to your payment. Keep going until your payment is the same as, or greater than, the cost.",
+    "file": "85444a45b839a5981bc4.wav"
+  },
+  {
+    "text": "Understand the extra. If you hand over more than the cost, the shopkeeper returns the extra as change. Money you did not hand over stays in the wallet.",
+    "file": "e302d712bc46d9ed9c32.wav"
+  },
+  {
+    "text": "Mama said Yebo may choose a small extra or save the change. He has 15 rand left. A fruit snack costs 4 rand. Let’s see whether he has enough.",
+    "file": "c81563a9b929b60cf7fe.wav"
+  },
+  {
+    "text": "Compare what is left with the price. 15 rand is at least 4 rand. The extra is affordable.",
+    "file": "688ccbbe5fae42ec62c9.wav"
+  },
+  {
+    "text": "Find the balance after the extra. If Yebo buys it, 11 rand stays in his wallet. He can also save all 15 rand. Both choices are good.",
+    "file": "b6db611a8b1c3f3aa844.wav"
+  },
+  {
+    "text": "Yebo handed over 40 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "667cff79d7eb8c521f74.wav"
+  },
+  {
+    "text": "Start at the cost. Start at 35 rand, because this amount belongs to the shopkeeper.",
+    "file": "0bd78a074283eedd84fc.wav"
+  },
+  {
+    "text": "Count to the next ten. Add 5 rand to reach 40 rand.",
+    "file": "823bcac5ca898e652b21.wav"
+  },
+  {
+    "text": "The change. The steps we added total 5 rand. That is the change the shopkeeper returns.",
+    "file": "4367adb620a58c8ab13d.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 5 rand, equals the payment, 40 rand.",
+    "file": "1f0c123a6364852a3501.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 10 rand that we never handed over. Add the change of 5 rand. Yebo has 15 rand left in all.",
+    "file": "1ee15984ea82905975bc.wav"
+  },
+  {
+    "text": "Yebo handed over 45 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "d0bf3c5b55747d08a551.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 5 rand to reach the payment of 45 rand.",
+    "file": "d4a8d1762c48dc63c6f6.wav"
+  },
+  {
+    "text": "The change. The steps we added total 10 rand. That is the change the shopkeeper returns.",
+    "file": "36ed1471b3fa02001ce0.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 10 rand, equals the payment, 45 rand.",
+    "file": "e6bff76c72834149f1f3.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 5 rand that we never handed over. Add the change of 10 rand. Yebo has 15 rand left in all.",
+    "file": "52fab09280547d5fe311.wav"
+  },
+  {
+    "text": "Yebo handed over 42 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "666958e6aee6db0891e6.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 2 rand to reach the payment of 42 rand.",
+    "file": "d9648e875f0f899d324d.wav"
+  },
+  {
+    "text": "The change. The steps we added total 7 rand. That is the change the shopkeeper returns.",
+    "file": "d2650c017e5602391a61.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 7 rand, equals the payment, 42 rand.",
+    "file": "2aaf43d65571e6cac075.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 8 rand that we never handed over. Add the change of 7 rand. Yebo has 15 rand left in all.",
+    "file": "6c5363b4fc1a07863e7c.wav"
+  },
+  {
+    "text": "Yebo handed over 47 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "d1b9411e0b588f9d3555.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 7 rand to reach the payment of 47 rand.",
+    "file": "f9c71defc5d0b802cfca.wav"
+  },
+  {
+    "text": "The change. The steps we added total 12 rand. That is the change the shopkeeper returns.",
+    "file": "b1eb9cdb6cf4193ac4d1.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 12 rand, equals the payment, 47 rand.",
+    "file": "8b0f7af5eba3fdc37d71.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 3 rand that we never handed over. Add the change of 12 rand. Yebo has 15 rand left in all.",
+    "file": "f25b25d0337f62e8f686.wav"
+  },
+  {
+    "text": "Yebo handed over 44 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "0cedecbc04ff7eaa12e4.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 4 rand to reach the payment of 44 rand.",
+    "file": "1c9c0172dbf06eb63991.wav"
+  },
+  {
+    "text": "The change. The steps we added total 9 rand. That is the change the shopkeeper returns.",
+    "file": "1b1e755efb5e5218b5f0.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 9 rand, equals the payment, 44 rand.",
+    "file": "8a057989fbf7d04a40a0.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 6 rand that we never handed over. Add the change of 9 rand. Yebo has 15 rand left in all.",
+    "file": "bbc48c964a30ea955685.wav"
+  },
+  {
+    "text": "Yebo handed over 49 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "9f1efb7fa92e28ad0301.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 9 rand to reach the payment of 49 rand.",
+    "file": "c0a0fa9ce66c1e83b92e.wav"
+  },
+  {
+    "text": "The change. The steps we added total 14 rand. That is the change the shopkeeper returns.",
+    "file": "3258390eb590811f5b2d.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 14 rand, equals the payment, 49 rand.",
+    "file": "313fe907aef602d4372d.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 1 rand that we never handed over. Add the change of 14 rand. Yebo has 15 rand left in all.",
+    "file": "f740d64016dcf13bf3e0.wav"
+  },
+  {
+    "text": "Yebo handed over 41 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "4415b0e6322511a08b36.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 1 rand to reach the payment of 41 rand.",
+    "file": "2a2eed0e942f437fb74d.wav"
+  },
+  {
+    "text": "The change. The steps we added total 6 rand. That is the change the shopkeeper returns.",
+    "file": "1919de1e0e8705e5508e.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 6 rand, equals the payment, 41 rand.",
+    "file": "9318991c34215fc7fb86.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 9 rand that we never handed over. Add the change of 6 rand. Yebo has 15 rand left in all.",
+    "file": "8ae4fc482245872913ec.wav"
+  },
+  {
+    "text": "Yebo handed over 46 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "2663d87757f10ce7ce5c.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 6 rand to reach the payment of 46 rand.",
+    "file": "7d2be903fb16651ef8c1.wav"
+  },
+  {
+    "text": "The change. The steps we added total 11 rand. That is the change the shopkeeper returns.",
+    "file": "9a82b4bf5f14196391c5.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 11 rand, equals the payment, 46 rand.",
+    "file": "8c1f6d7fc10e0be01bae.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 4 rand that we never handed over. Add the change of 11 rand. Yebo has 15 rand left in all.",
+    "file": "2ee3dde199a31f2702c9.wav"
+  },
+  {
+    "text": "Yebo handed over 43 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "b15442d6b13bb55ca60d.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 3 rand to reach the payment of 43 rand.",
+    "file": "9f0b77ff413868039641.wav"
+  },
+  {
+    "text": "The change. The steps we added total 8 rand. That is the change the shopkeeper returns.",
+    "file": "c1441cf7e225968fdee3.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 8 rand, equals the payment, 43 rand.",
+    "file": "c5683dfeb8b330d13c19.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 7 rand that we never handed over. Add the change of 8 rand. Yebo has 15 rand left in all.",
+    "file": "878391e22efeb3b5bd7c.wav"
+  },
+  {
+    "text": "Yebo handed over 48 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "2d3578b064536a5a0a1d.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 8 rand to reach the payment of 48 rand.",
+    "file": "b6e28dc8881196b4538e.wav"
+  },
+  {
+    "text": "The change. The steps we added total 13 rand. That is the change the shopkeeper returns.",
+    "file": "fd764ce39350c2d27f30.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 13 rand, equals the payment, 48 rand.",
+    "file": "5d5b1285688687b506ca.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 2 rand that we never handed over. Add the change of 13 rand. Yebo has 15 rand left in all.",
+    "file": "9fca22cc797a226f9d91.wav"
+  },
+  {
+    "text": "Yebo handed over 50 rand. The groceries cost 35 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "bb9fa1cfb4ee86a3b51d.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 10 rand to reach the payment of 50 rand.",
+    "file": "08a1de975548b1dcefb3.wav"
+  },
+  {
+    "text": "The change. The steps we added total 15 rand. That is the change the shopkeeper returns.",
+    "file": "6b71bd00a251c3a83fb0.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 35 rand, plus the change, 15 rand, equals the payment, 50 rand.",
+    "file": "b0c22dafd11b3910f39c.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 0 rand that we never handed over. Add the change of 15 rand. Yebo has 15 rand left in all.",
+    "file": "f584a939e4ac0517d771.wav"
+  },
+  {
+    "text": "Mama gives Yebo 50 rand, 5 rand, 2 rand, 2 rand, 1 rand. Let’s count the money in small steps so he knows his shopping budget.",
+    "file": "7ff23a50e24faff036a8.wav"
+  },
+  {
+    "text": "Count piece 1. Start with the first note. It is worth 50 rand.",
+    "file": "f0a055239d176c17ac96.wav"
+  },
+  {
+    "text": "Count piece 2. We have 50 rand. Add the next 5 rand. Now we have 55 rand.",
+    "file": "3cf50b72b1193b80c799.wav"
+  },
+  {
+    "text": "Count piece 3. We have 55 rand. Add the next 2 rand. Now we have 57 rand.",
+    "file": "1ab1a09dfec3dee351d2.wav"
+  },
+  {
+    "text": "Count piece 4. We have 57 rand. Add the next 2 rand. Now we have 59 rand.",
+    "file": "ae6880c53d751d791024.wav"
+  },
+  {
+    "text": "Count piece 5. We have 59 rand. Add the next 1 rand. Now we have 60 rand.",
+    "file": "39f9bb043a3b5be6ac92.wav"
+  },
+  {
+    "text": "Check the whole wallet. We counted every piece once. Mama gave Yebo 60 rand altogether.",
+    "file": "b57982f968f060dcd974.wav"
+  },
+  {
+    "text": "Yebo is at Mr Dlamini’s spaza shop. Mama needs Bread, Milk, Bag of bananas, Tea. Let’s match the shopping list to the shelf.",
+    "file": "8551c6d385cb264896f9.wav"
+  },
+  {
+    "text": "Find Bread. Find Bread on the shelf. The price is 16 rand and 50 cents. Choose one, because Mama’s list asks for one.",
+    "file": "3411d659ded2982f8035.wav"
+  },
+  {
+    "text": "Find Milk. Find Milk on the shelf. The price is 13 rand and 50 cents. Choose one, because Mama’s list asks for one.",
+    "file": "6dc36ce592b9df47246d.wav"
+  },
+  {
+    "text": "Find Bag of bananas. Find Bag of bananas on the shelf. The price is 10 rand. Choose one, because Mama’s list asks for one.",
+    "file": "cde310b42b6f18e49dff.wav"
+  },
+  {
+    "text": "Find Tea. Find Tea on the shelf. The price is 8 rand. Choose one, because Mama’s list asks for one.",
+    "file": "28b216c8f7200299138b.wav"
+  },
+  {
+    "text": "Yebo has chosen Bread for 16 rand and 50 cents, Milk for 13 rand and 50 cents, Bag of bananas for 10 rand, Tea for 8 rand. We need the total cost, so we add all the prices.",
+    "file": "034626f61b50a4e77ddb.wav"
+  },
+  {
+    "text": "Join the cents. The bread and milk each have fifty cents in their prices. Fifty cents plus fifty cents makes one hundred cents, which is one rand. Keep that extra rand when you add the whole rands.",
+    "file": "2bc063f44dcd6f74a0d1.wav"
+  },
+  {
+    "text": "Start with Bread. Start with Bread. It costs 16 rand and 50 cents.",
+    "file": "e604fbe460dd592e378c.wav"
+  },
+  {
+    "text": "Add Milk. Our total so far is 16 rand and 50 cents. Add 13 rand and 50 cents for Milk. Now the total is 30 rand.",
+    "file": "717bdb05d80d0859e1b3.wav"
+  },
+  {
+    "text": "Add Bag of bananas. Our total so far is 30 rand. Add 10 rand for Bag of bananas. Now the total is 40 rand.",
+    "file": "c16faad43ad25713b89d.wav"
+  },
+  {
+    "text": "Add Tea. Our total so far is 40 rand. Add 8 rand for Tea. Now the total is 48 rand.",
+    "file": "59d3bae86e0c1a0e9ad0.wav"
+  },
+  {
+    "text": "The basket total. We included every listed item once. The shopping costs 48 rand altogether.",
+    "file": "956e3696ca2f59809a79.wav"
+  },
+  {
+    "text": "The groceries cost 48 rand. Mama’s wallet holds 60 rand. Can this amount pay for the groceries?",
+    "file": "c6afc1d0efde6fa0265f.wav"
+  },
+  {
+    "text": "Find the amount needed. We need 48 rand to buy everything.",
+    "file": "85f892855c9c2ba92a2d.wav"
+  },
+  {
+    "text": "Compare the two amounts. 60 rand is at least 48 rand. There is enough money.",
+    "file": "f29f0fc019fb818978ce.wav"
+  },
+  {
+    "text": "Find what will remain. After spending 48 rand, 12 rand will remain in total.",
+    "file": "a9429b428e218e68e63a.wav"
+  },
+  {
+    "text": "The groceries cost 48 rand. Imagine a pretend wallet with only 43 rand. Can this amount pay for the groceries?",
+    "file": "41ed59876d68f1690ea8.wav"
+  },
+  {
+    "text": "Compare the two amounts. 43 rand is less than 48 rand. There is not enough money yet.",
+    "file": "10f78db08d5611020b88.wav"
+  },
+  {
+    "text": "Yebo needs to pay 48 rand at the till. He can choose notes and coins from Mama’s wallet. Any payment that covers the cost is fine.",
+    "file": "ee5758275779a90fb828.wav"
+  },
+  {
+    "text": "Keep the cost in view. The shopkeeper needs 48 rand for the groceries.",
+    "file": "ea8123c89ea896d742a2.wav"
+  },
+  {
+    "text": "Mama said Yebo may choose a small extra or save the change. He has 12 rand left. A small juice costs 12 rand and 50 cents. Let’s see whether he has enough.",
+    "file": "0fca83ecc4e1b82da0c7.wav"
+  },
+  {
+    "text": "Compare what is left with the price. 12 rand is less than 12 rand and 50 cents. There is not enough for this extra.",
+    "file": "aa8cd8a1d2e7cf09724c.wav"
+  },
+  {
+    "text": "Find the shortfall. Yebo would need 0 rand and 50 cents more. He can save his 12 rand and bring it home.",
+    "file": "6edf55255f78be4b6154.wav"
+  },
+  {
+    "text": "Yebo handed over 50 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "b6c7efc83d3689897a43.wav"
+  },
+  {
+    "text": "Start at the cost. Start at 48 rand, because this amount belongs to the shopkeeper.",
+    "file": "c3a261ca42cf224f00ad.wav"
+  },
+  {
+    "text": "Count to the next ten. Add 2 rand to reach 50 rand.",
+    "file": "cda1b5fa24ffc499e093.wav"
+  },
+  {
+    "text": "The change. The steps we added total 2 rand. That is the change the shopkeeper returns.",
+    "file": "01ab9166fcd8d88f7a80.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 2 rand, equals the payment, 50 rand.",
+    "file": "5fc72f8eb99e140142a6.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 10 rand that we never handed over. Add the change of 2 rand. Yebo has 12 rand left in all.",
+    "file": "bd24309b3ff0e24e8a41.wav"
+  },
+  {
+    "text": "Yebo handed over 55 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "b1bd1f18bdc2dd71410d.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 5 rand to reach the payment of 55 rand.",
+    "file": "afb828db01898e5992f9.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 7 rand, equals the payment, 55 rand.",
+    "file": "ceb6afc9ce131bc292b1.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 5 rand that we never handed over. Add the change of 7 rand. Yebo has 12 rand left in all.",
+    "file": "aa36d95ccc59b1a74562.wav"
+  },
+  {
+    "text": "Yebo handed over 52 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "173aea07ee554879c7ff.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 2 rand to reach the payment of 52 rand.",
+    "file": "f8e7451b205a8d4a6c8d.wav"
+  },
+  {
+    "text": "The change. The steps we added total 4 rand. That is the change the shopkeeper returns.",
+    "file": "5dae0dda24fafd83a339.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 4 rand, equals the payment, 52 rand.",
+    "file": "ccd54e0855d44fd4f8a5.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 8 rand that we never handed over. Add the change of 4 rand. Yebo has 12 rand left in all.",
+    "file": "222c1fa57ff284c7647a.wav"
+  },
+  {
+    "text": "Yebo handed over 57 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "55b395ac0fbc11ac8c69.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 7 rand to reach the payment of 57 rand.",
+    "file": "30a45d863d48f74c965f.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 9 rand, equals the payment, 57 rand.",
+    "file": "1d7e4f09e9dabe304257.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 3 rand that we never handed over. Add the change of 9 rand. Yebo has 12 rand left in all.",
+    "file": "0db2ab79dc8d47900cb3.wav"
+  },
+  {
+    "text": "Yebo handed over 54 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "e1678cb231012c089569.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 4 rand to reach the payment of 54 rand.",
+    "file": "86269dbe27e0a666a142.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 6 rand, equals the payment, 54 rand.",
+    "file": "6d5081ccf8bac1610605.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 6 rand that we never handed over. Add the change of 6 rand. Yebo has 12 rand left in all.",
+    "file": "fd104b1061019745f213.wav"
+  },
+  {
+    "text": "Yebo handed over 59 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "122fc13bc7730cf47c5d.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 9 rand to reach the payment of 59 rand.",
+    "file": "0a5e1bfd23f972e594c8.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 11 rand, equals the payment, 59 rand.",
+    "file": "e8aa893070d1483b25b9.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 1 rand that we never handed over. Add the change of 11 rand. Yebo has 12 rand left in all.",
+    "file": "9f3c94b4248d4e92785c.wav"
+  },
+  {
+    "text": "Yebo handed over 51 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "5c3cfe3f303d8693dda0.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 1 rand to reach the payment of 51 rand.",
+    "file": "3aecf56e3d814f0fa217.wav"
+  },
+  {
+    "text": "The change. The steps we added total 3 rand. That is the change the shopkeeper returns.",
+    "file": "816025a3fa085e154d1f.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 3 rand, equals the payment, 51 rand.",
+    "file": "5093f318fff0106ea477.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 9 rand that we never handed over. Add the change of 3 rand. Yebo has 12 rand left in all.",
+    "file": "c9ad5eb5b3e79de3e081.wav"
+  },
+  {
+    "text": "Yebo handed over 56 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "fd89ae67e1cc9ac47834.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 6 rand to reach the payment of 56 rand.",
+    "file": "cb42456f2b129e93a73d.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 8 rand, equals the payment, 56 rand.",
+    "file": "5f94df721cda7077d5f6.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 4 rand that we never handed over. Add the change of 8 rand. Yebo has 12 rand left in all.",
+    "file": "e204b59bb6a23e0a6101.wav"
+  },
+  {
+    "text": "Yebo handed over 53 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "3fdd5361c1bca08a4abe.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 3 rand to reach the payment of 53 rand.",
+    "file": "a655d08be3db8f6597a2.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 5 rand, equals the payment, 53 rand.",
+    "file": "8ee00577af5676a1b350.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 7 rand that we never handed over. Add the change of 5 rand. Yebo has 12 rand left in all.",
+    "file": "843788b016b55cec2a12.wav"
+  },
+  {
+    "text": "Yebo handed over 58 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "a8a79073cbdecaec7c4c.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 8 rand to reach the payment of 58 rand.",
+    "file": "7aa12d8f8b78e35c73a8.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 10 rand, equals the payment, 58 rand.",
+    "file": "1562d81bfad8c29a36b7.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 2 rand that we never handed over. Add the change of 10 rand. Yebo has 12 rand left in all.",
+    "file": "d2a9736d16df0116e8b6.wav"
+  },
+  {
+    "text": "Yebo handed over 60 rand. The groceries cost 48 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "375ea8a7496b79e51e70.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 10 rand to reach the payment of 60 rand.",
+    "file": "f979841165f9eebc9d64.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 48 rand, plus the change, 12 rand, equals the payment, 60 rand.",
+    "file": "e3ce3d8a165c3cd5b8b2.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 0 rand that we never handed over. Add the change of 12 rand. Yebo has 12 rand left in all.",
+    "file": "bbbf4d061426de2d79de.wav"
+  },
+  {
+    "text": "Mama gives Yebo 20 rand, 10 rand, 5 rand, 2 rand, 2 rand, 1 rand. Let’s count the money in small steps so he knows his shopping budget.",
+    "file": "44d376fa5023336a2b38.wav"
+  },
+  {
+    "text": "Count piece 2. We have 20 rand. Add the next 10 rand. Now we have 30 rand.",
+    "file": "315baf62d06242d0ec8b.wav"
+  },
+  {
+    "text": "Count piece 3. We have 30 rand. Add the next 5 rand. Now we have 35 rand.",
+    "file": "3f3eaca3508484ee76e9.wav"
+  },
+  {
+    "text": "Count piece 4. We have 35 rand. Add the next 2 rand. Now we have 37 rand.",
+    "file": "e12f07bb1f4f22116681.wav"
+  },
+  {
+    "text": "Count piece 5. We have 37 rand. Add the next 2 rand. Now we have 39 rand.",
+    "file": "8db72b35321627247a3f.wav"
+  },
+  {
+    "text": "Count piece 6. We have 39 rand. Add the next 1 rand. Now we have 40 rand.",
+    "file": "ef7a9b67a20764f34b5a.wav"
+  },
+  {
+    "text": "Check the whole wallet. We counted every piece once. Mama gave Yebo 40 rand altogether.",
+    "file": "43dd62b8959aaeaf8dac.wav"
+  },
+  {
+    "text": "Yebo is at Mr Dlamini’s spaza shop. Mama needs Rice, Bread, Tomatoes. Let’s match the shopping list to the shelf.",
+    "file": "fbb482b3591153b222f5.wav"
+  },
+  {
+    "text": "Find Rice. Find Rice on the shelf. The price is 11 rand. Choose one, because Mama’s list asks for one.",
+    "file": "c346eaee9fda71876af7.wav"
+  },
+  {
+    "text": "Find Bread. Find Bread on the shelf. The price is 10 rand. Choose one, because Mama’s list asks for one.",
+    "file": "4b6a33c870ce4334bade.wav"
+  },
+  {
+    "text": "Find Tomatoes. Find Tomatoes on the shelf. The price is 8 rand. Choose one, because Mama’s list asks for one.",
+    "file": "0c371e7a33f5c947347e.wav"
+  },
+  {
+    "text": "Yebo has chosen Rice for 11 rand, Bread for 10 rand, Tomatoes for 8 rand. We need the total cost, so we add all the prices.",
+    "file": "d2bf186ed97c2b12ced9.wav"
+  },
+  {
+    "text": "Start with Rice. Start with Rice. It costs 11 rand.",
+    "file": "34d251f4662764fadeed.wav"
+  },
+  {
+    "text": "Add Bread. Our total so far is 11 rand. Add 10 rand for Bread. Now the total is 21 rand.",
+    "file": "b0878110776076441b69.wav"
+  },
+  {
+    "text": "Add Tomatoes. Our total so far is 21 rand. Add 8 rand for Tomatoes. Now the total is 29 rand.",
+    "file": "aba403b6e80654718376.wav"
+  },
+  {
+    "text": "The basket total. We included every listed item once. The shopping costs 29 rand altogether.",
+    "file": "9c7613d750f5b1900366.wav"
+  },
+  {
+    "text": "The groceries cost 29 rand. Mama’s wallet holds 40 rand. Can this amount pay for the groceries?",
+    "file": "55cca51c8ddf1c1e9af7.wav"
+  },
+  {
+    "text": "Find the amount needed. We need 29 rand to buy everything.",
+    "file": "4d9be0a135178703aacf.wav"
+  },
+  {
+    "text": "Compare the two amounts. 40 rand is at least 29 rand. There is enough money.",
+    "file": "5c1d974af82943bff451.wav"
+  },
+  {
+    "text": "Find what will remain. After spending 29 rand, 11 rand will remain in total.",
+    "file": "f5881f6b17dfcc86005d.wav"
+  },
+  {
+    "text": "The groceries cost 29 rand. Imagine a pretend wallet with only 24 rand. Can this amount pay for the groceries?",
+    "file": "27736fe02204ef2a8e53.wav"
+  },
+  {
+    "text": "Compare the two amounts. 24 rand is less than 29 rand. There is not enough money yet.",
+    "file": "4e966dbec82b46147d20.wav"
+  },
+  {
+    "text": "Yebo needs to pay 29 rand at the till. He can choose notes and coins from Mama’s wallet. Any payment that covers the cost is fine.",
+    "file": "6975db55b1121a598aab.wav"
+  },
+  {
+    "text": "Keep the cost in view. The shopkeeper needs 29 rand for the groceries.",
+    "file": "cf745181e20dcbcdc094.wav"
+  },
+  {
+    "text": "Mama said Yebo may choose a small extra or save the change. He has 11 rand left. A fruit snack costs 4 rand. Let’s see whether he has enough.",
+    "file": "a7bb588cdb26b1c44a01.wav"
+  },
+  {
+    "text": "Compare what is left with the price. 11 rand is at least 4 rand. The extra is affordable.",
+    "file": "895e3dc2696c2238dbc1.wav"
+  },
+  {
+    "text": "Find the balance after the extra. If Yebo buys it, 7 rand stays in his wallet. He can also save all 11 rand. Both choices are good.",
+    "file": "0cf7dda7da99e7309335.wav"
+  },
+  {
+    "text": "Yebo handed over 30 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "9897dfd9c796daafa690.wav"
+  },
+  {
+    "text": "Start at the cost. Start at 29 rand, because this amount belongs to the shopkeeper.",
+    "file": "58316f114316b195e874.wav"
+  },
+  {
+    "text": "Count to the next ten. Add 1 rand to reach 30 rand.",
+    "file": "7a76c06c5770c6bc703e.wav"
+  },
+  {
+    "text": "The change. The steps we added total 1 rand. That is the change the shopkeeper returns.",
+    "file": "aae9a36974761880ccaf.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 1 rand, equals the payment, 30 rand.",
+    "file": "b1a5f8f20569ccf79ea1.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 10 rand that we never handed over. Add the change of 1 rand. Yebo has 11 rand left in all.",
+    "file": "e107215fe30292f53aaf.wav"
+  },
+  {
+    "text": "Yebo handed over 35 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "4e1384b0b374a8c5801f.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 5 rand to reach the payment of 35 rand.",
+    "file": "67a68e1a35ce37db8c7d.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 6 rand, equals the payment, 35 rand.",
+    "file": "5ce1491b97fcf5e85311.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 5 rand that we never handed over. Add the change of 6 rand. Yebo has 11 rand left in all.",
+    "file": "12391940d2a6f024f77d.wav"
+  },
+  {
+    "text": "Yebo handed over 32 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "ef6a556457c4f8b8c4bb.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 2 rand to reach the payment of 32 rand.",
+    "file": "337149611ac1689e74ab.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 3 rand, equals the payment, 32 rand.",
+    "file": "845e8c50d4f27c9637c2.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 8 rand that we never handed over. Add the change of 3 rand. Yebo has 11 rand left in all.",
+    "file": "7f06d8bd6fa99b122f13.wav"
+  },
+  {
+    "text": "Yebo handed over 37 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "319a2358e2d7a76a320d.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 7 rand to reach the payment of 37 rand.",
+    "file": "e4614867925796277a30.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 8 rand, equals the payment, 37 rand.",
+    "file": "b0f843dac7094bf413c1.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 3 rand that we never handed over. Add the change of 8 rand. Yebo has 11 rand left in all.",
+    "file": "98a0eca9d9fc9421a7fd.wav"
+  },
+  {
+    "text": "Yebo handed over 34 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "81def21758b774120534.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 4 rand to reach the payment of 34 rand.",
+    "file": "d8c614659cf1f6dc4865.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 5 rand, equals the payment, 34 rand.",
+    "file": "1ff7a41023e9c55af3d3.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 6 rand that we never handed over. Add the change of 5 rand. Yebo has 11 rand left in all.",
+    "file": "3a2e025c7e16bc482e65.wav"
+  },
+  {
+    "text": "Yebo handed over 29 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "556a9615009864d9ea56.wav"
+  },
+  {
+    "text": "The change. The payment exactly matches the cost. There is zero rand change.",
+    "file": "6f6dda6efaf10ec5585c.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 0 rand, equals the payment, 29 rand.",
+    "file": "c6c1d501e3b42279c7c7.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 11 rand that we never handed over. Add the change of 0 rand. Yebo has 11 rand left in all.",
+    "file": "a16793955433c1040313.wav"
+  },
+  {
+    "text": "Yebo handed over 39 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "49dddfde84e9941b365c.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 9 rand to reach the payment of 39 rand.",
+    "file": "3a10427e5823d4ad1ca8.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 10 rand, equals the payment, 39 rand.",
+    "file": "15eaf153cfecba1b97eb.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 1 rand that we never handed over. Add the change of 10 rand. Yebo has 11 rand left in all.",
+    "file": "d8370eaa8dd3a4bb411e.wav"
+  },
+  {
+    "text": "Yebo handed over 31 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "fb8dc372753834f2ae02.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 1 rand to reach the payment of 31 rand.",
+    "file": "ad427f25641f9856f6c5.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 2 rand, equals the payment, 31 rand.",
+    "file": "02aa8ad3ffab9ac64691.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 9 rand that we never handed over. Add the change of 2 rand. Yebo has 11 rand left in all.",
+    "file": "d4169bdd78fa7ffe64b9.wav"
+  },
+  {
+    "text": "Yebo handed over 36 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "1e8e0b8eb3a9d3c2a8fa.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 6 rand to reach the payment of 36 rand.",
+    "file": "6f0fe669c2b8023c303a.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 7 rand, equals the payment, 36 rand.",
+    "file": "23a01c49d0f952e614b4.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 4 rand that we never handed over. Add the change of 7 rand. Yebo has 11 rand left in all.",
+    "file": "66c82e6daefa937aa70f.wav"
+  },
+  {
+    "text": "Yebo handed over 33 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "df1212664e1856a9ef30.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 3 rand to reach the payment of 33 rand.",
+    "file": "208166f8e72e09775683.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 4 rand, equals the payment, 33 rand.",
+    "file": "e5f5a58475696d0ce885.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 7 rand that we never handed over. Add the change of 4 rand. Yebo has 11 rand left in all.",
+    "file": "10441084cdb739c577c0.wav"
+  },
+  {
+    "text": "Yebo handed over 38 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "ade0f043251f2a27620f.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 8 rand to reach the payment of 38 rand.",
+    "file": "601814e34b40d2016ee3.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 9 rand, equals the payment, 38 rand.",
+    "file": "3b70efd8cc0263fb775a.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 2 rand that we never handed over. Add the change of 9 rand. Yebo has 11 rand left in all.",
+    "file": "51cfe99d1080745562b1.wav"
+  },
+  {
+    "text": "Yebo handed over 40 rand. The groceries cost 29 rand. Let’s find the change by counting up from the cost to the payment.",
+    "file": "a4f00b7a93f41c5b6e02.wav"
+  },
+  {
+    "text": "Reach the payment. Add another 10 rand to reach the payment of 40 rand.",
+    "file": "68953a6a002fa9b2c119.wav"
+  },
+  {
+    "text": "Check the sum. The cost, 29 rand, plus the change, 11 rand, equals the payment, 40 rand.",
+    "file": "08230f175d1a02cf9049.wav"
+  },
+  {
+    "text": "Check all the money left. There is also 0 rand that we never handed over. Add the change of 11 rand. Yebo has 11 rand left in all.",
+    "file": "80ad880260452121e1dd.wav"
+  }
+]

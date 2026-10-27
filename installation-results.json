@@ -1,0 +1,34 @@
+[
+  {
+    "Package": "GodotEngine.GodotEngine",
+    "ExitCode": 0
+  },
+  {
+    "Package": "ChrisKlimas.Twine",
+    "ExitCode": 0
+  },
+  {
+    "Package": "RenPy.RenPySDK",
+    "ExitCode": 0
+  },
+  {
+    "Package": "Inkle.Inky",
+    "ExitCode": 0
+  },
+  {
+    "Package": "KDE.Krita",
+    "ExitCode": 0
+  },
+  {
+    "Package": "Inkscape.Inkscape",
+    "ExitCode": 0
+  },
+  {
+    "Package": "BlenderFoundation.Blender",
+    "ExitCode": 0
+  },
+  {
+    "Package": "Audacity.Audacity",
+    "ExitCode": 0
+  }
+]

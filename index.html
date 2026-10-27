@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#292263">
+  <link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="icons/apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="Yebo"><meta name="mobile-web-app-capable" content="yes">
+  <title>Yebo’s Shopping Adventure</title>
+  <link rel="stylesheet" href="style.css"><link rel="stylesheet" href="fun.css"><link rel="stylesheet" href="simple.css"><link rel="stylesheet" href="polish.css">
+</head>
+<body>
+  <header class="topbar"><a class="brand" href="./index.html"><img class="game-logo" src="yearbeyond-logo.jpeg" alt="YearBeyond — connecting youth to opportunities"></a><div class="tools"><button id="read" aria-label="Read the current instructions aloud">🔊 Listen</button></div></header>
+  <nav class="subject-switch" aria-label="Choose a learning adventure"><button id="numeracy-mode" aria-pressed="true">🛍️ Count & shop</button><button id="literacy-mode" aria-pressed="false">📖 Read a story</button></nav>
+  <details id="play-options"><summary>⚙ Options</summary><div class="voice-toolbar"><span id="language-note">Listen, watch, then try it yourself.</span><div class="language-controls"><label for="language">Language</label><select id="language"><option value="en">English</option><option value="af">Afrikaans</option><option value="zu">isiZulu</option></select><label for="voice-speed">Voice pace</label><select id="voice-speed"><option value="0.8">Slow & gentle</option><option value="0.65">Extra slow</option><option value="1">Regular</option></select><button id="auto-voice" aria-pressed="false">◖)) Auto story voice</button></div></div><div class="extra-settings"></div><div class="adult-tools"><button id="reading" aria-pressed="false">Aa Reading view</button><button id="report">Grown-up view</button></div><div id="phone-tools"></div></details>
+  <audio id="narration-audio" preload="none"></audio>
+  <div id="joy-hub"></div><div id="celebration" aria-live="polite" aria-atomic="true"></div>
+  <main id="app"></main><div id="singalong-hub"></div>
+  <footer><span>Made for little everyday adventures.</span><span>Take your time. You’ve got this. ✦</span></footer>
+  <dialog id="dashboard"><div id="report-content"></div><button id="close-report" class="primary">Back to the adventure</button></dialog>
+  <script type="module" src="app.js"></script>
+<script type="module" src="pwa.js"></script>
+</body>
+</html>
+

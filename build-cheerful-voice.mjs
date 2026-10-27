@@ -1,0 +1,20 @@
+import {lollipopVoiceTexts} from './lollipop-story.mjs';
+import {puzzleVoiceTexts} from './word-search.mjs';
+import {speechText} from './speech-text.mjs';
+import {showcaseVoiceTexts} from './showcase.mjs';
+import fs from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {cheerTexts} from './joy.mjs';
+const en=JSON.parse(await fs.readFile('voice-scripts.json','utf8'));
+const local=JSON.parse(await fs.readFile('localized-voice-scripts.json','utf8'));
+const maps={en:{},af:{},zu:{}},scripts=[];
+function add(lang,text,spoken=text){if(maps[lang][text])return;const original=spoken;spoken=speechText(spoken);if(!spoken)return;const file=createHash('sha256').update((spoken===original?'joyful-v1|':'no-emojis-v1|')+lang+'|'+text).digest('hex').slice(0,20)+'.mp3';maps[lang][text]=file;scripts.push({lang,text,spoken,file});}
+for(const clip of en)add('en',clip.text);
+for(const clip of local)add(clip.lang,clip.text,clip.spoken);
+for(const lang of Object.keys(cheerTexts))for(const text of cheerTexts[lang])add(lang,text);
+for(const [lang,texts] of Object.entries(showcaseVoiceTexts()))for(const text of texts)add(lang,text);
+for(const text of puzzleVoiceTexts)add('en',text);
+for(const [lang,texts] of Object.entries(lollipopVoiceTexts()))for(const text of texts)add(lang,text);
+await fs.writeFile('cheerful-voice-scripts.json',JSON.stringify(scripts,null,2));
+await fs.writeFile('voice-cheerful.mjs','export const cheerfulVoiceFiles = '+JSON.stringify(maps,null,2)+';\n');
+console.log(`${scripts.length} cheerful recordings prepared.`);

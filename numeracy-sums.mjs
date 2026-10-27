@@ -1,0 +1,2 @@
+const sums={wallet:'R5 + R2 + R2 + R1 = ?',traffic:'3 + 2 = ?',steps:'2 → 4 → 6 → 8',birds:'6 − 2 = ?',dogs:'3 + 2 = ?',trees:'5 + 4 = ?',bikes:'2 + 2 = ?',nomsa:'3 + 4 = ?',fruit:'R2 + R3 = ?',capacity:'R2 × ? = R10',packet:'1 + 1 + 1 + 1 + 1 = ?',pay:'R5 + R2 + R2 + R1 = ?',change:'R10 − R10 = ?',share:'6 − 1 = ?',search:'1 + 1 + 1 = ?',missing:'3 + ? = 5',replace:'3 + 2 = ?',retell:'5 → 6 → 5 → 3 → 5',plates:'1 + 1 + 1 + 1 = ?',left:'5 − 4 = ?'};
+export function activitySum(id){return sums[id]||'';}

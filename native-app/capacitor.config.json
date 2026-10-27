@@ -1,0 +1,8 @@
+{
+  "appId": "com.yebogame.adventure",
+  "appName": "Yebo",
+  "webDir": "www",
+  "backgroundColor": "#fafbf6",
+  "android": {"allowMixedContent": false},
+  "ios": {"contentInset": "automatic", "preferredContentMode": "mobile", "allowsLinkPreview": false}
+}

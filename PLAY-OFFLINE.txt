@@ -1,0 +1,12 @@
+YEBO - PLAY ON THIS COMPUTER
+
+Double-click "Start Yebo" on your desktop, or "Start Yebo.cmd" in this folder.
+The game opens in your browser at http://127.0.0.1:4173/
+
+No internet connection or Codex session is needed to play. The voice recordings
+and pictures are stored in this folder. Keep the audio and runtime folders here.
+Progress is saved in the browser on this computer. Use the same browser and
+address each time to keep your progress.
+
+The local server is accessible only from this computer. Restart the launcher
+after restarting Windows. Closing the browser does not erase progress.

@@ -1,0 +1,12 @@
+{
+  "name": "yebos-shopping-adventure",
+  "version": "0.6.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test core.test.mjs lessons.test.mjs languages.test.mjs literacy.test.mjs joy.test.mjs lollipop.test.mjs realistic-assets.test.mjs singalong.test.mjs phone.test.mjs native.test.mjs",
+    "voice:scripts": "node build-voice.mjs",
+    "voice:languages": "node build-local-voice.mjs"
+  }
+}

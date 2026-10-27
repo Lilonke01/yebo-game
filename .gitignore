@@ -1,0 +1,12 @@
+.voice-env/
+.voice-models/
+__pycache__/
+
+native-app/node_modules/
+native-app/android/.gradle/
+native-app/android/local.properties
+native-app/android/**/build/
+native-app/www/
+build-tools/
+runtime/npm/
+runtime/npm.tgz

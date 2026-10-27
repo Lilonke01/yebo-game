@@ -1,0 +1,12 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {lollipopSteps,lollipopLedger as l,lollipopVoiceTexts} from './lollipop-story.mjs';
+import {cheerfulVoiceFiles} from './voice-cheerful.mjs';
+import {lollipopArt} from './lollipop-art.mjs';
+import {activitySum} from './numeracy-sums.mjs';
+import {realisticPropNames,prop} from './realistic-props.mjs';
+test('realistic pictures preserve the quantities used by the maths questions',()=>{const count=(id,name)=>(lollipopArt(id).match(new RegExp('assets3d/'+name+'\\.png','g'))||[]).length;assert.equal(count('traffic','car'),3);assert.equal(count('traffic','taxi'),2);assert.equal(count('birds','bird'),4);assert.equal(count('birds','bird-flying'),2);assert.equal(count('dogs','dog'),5);assert.equal(count('trees','tree'),9);assert.equal(count('bikes','bicycle'),2);assert.equal(count('share','lollipop'),6);assert.equal(count('plates','plate'),4);assert.equal(realisticPropNames.length,new Set(realisticPropNames).size);assert.throws(()=>prop('../file',0,0,1,1));});
+test('visible sums match the story and leave the answer for the player',()=>{assert.equal(activitySum('birds'),'6 − 2 = ?');assert.equal(activitySum('missing'),'3 + ? = 5');assert.equal(activitySum('capacity'),'R2 × ? = R10');assert.equal(activitySum('change'),'R10 − R10 = ?');assert.equal(activitySum('coin'),'');});
+test('R10 purchase, gifts, sharing, losses and family servings conserve lollipops',()=>{assert.equal(l.bought*2,l.cost);assert.equal(l.paid-l.cost,l.change);assert.equal(l.bought+l.shopGift-l.shared,l.cleanRecovered+l.unusable);assert.equal(l.cleanRecovered+l.replacements,l.family+l.tomorrow);assert.equal(l.family,4);assert.equal(l.tomorrow,1);});
+test('every new activity has complete language text and valid choices',()=>{assert.equal(new Set(lollipopSteps.map(s=>s.id)).size,lollipopSteps.length);for(const s of lollipopSteps){assert.equal(s.scene.length,3);assert.equal(s.question.length,3);assert.ok(s.scene.every(Boolean)&&s.question.every(Boolean));if(s.choices.length)assert.ok(s.choices.includes(s.answer));assert.match(lollipopArt(s.id),/<svg/);}});
+test('every R10 story and explanation has matching narration in all three languages',()=>{for(const [lang,texts] of Object.entries(lollipopVoiceTexts()))for(const text of texts)assert.ok(cheerfulVoiceFiles[lang][text],lang+': '+text);});

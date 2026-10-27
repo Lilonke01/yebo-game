@@ -1,0 +1,2 @@
+// Locally bundled 3D-rendered story characters with transparent backgrounds.
+export function cartoonCharacter({x=0,y=0,scale=1,adult=false,girl=false}={}){const sprite=adult?'adult-3d.png':girl?'girl-3d.png':'yebo-3d.png';return `<g transform="translate(${x} ${y}) scale(${scale})"><ellipse cx="0" cy="104" rx="27" ry="4" fill="#4b5947" opacity=".14"/><image href="${sprite}" x="-51" y="-45" width="102" height="153" preserveAspectRatio="xMidYMax meet"/></g>`;}
